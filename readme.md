@@ -1,11 +1,8 @@
 # Sonic Themed Infinite Runner Game
 
-Live demo :
+Live demo : https://sonicinfiniterunner.vercel.app/
 
 Made in JavaScript with the Kaplay game library.
-
-
-
 
 CREDITS
 
